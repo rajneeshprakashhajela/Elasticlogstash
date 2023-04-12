@@ -77,3 +77,24 @@ https://www.c-sharpcorner.com/article/how-to-integrate-elasticsearch-in-asp-net-
 ![image](https://user-images.githubusercontent.com/43515480/231380322-9fbdb63d-18d4-49ef-8335-12128a0a929b.png)
 
 ![image](https://user-images.githubusercontent.com/43515480/231380429-96969997-684e-40e0-a8d7-eb71e722f8db.png)
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/43515480/231382331-77d8d4d1-762e-44f8-8ae2-f1aa0c940bd5.png)
+![image](https://user-images.githubusercontent.com/43515480/231382426-2071eca2-1065-41b1-90af-41526fb6ed31.png)
+![image](https://user-images.githubusercontent.com/43515480/231383019-f05b47d9-f0d4-4d66-81b5-db90e2d1a13c.png)
+![image](https://user-images.githubusercontent.com/43515480/231383255-7737671c-56b7-4acf-90cc-164c615294e2.png)
+![image](https://user-images.githubusercontent.com/43515480/231385527-431cc45f-6d90-436a-aac8-7f3e9da837bb.png)
+<h1>Inside dockercompose.yaml file</h1>
+![image](https://user-images.githubusercontent.com/43515480/231385610-e04177b0-7d5d-4a05-8014-eb9f98b7280f.png)
+![image](https://user-images.githubusercontent.com/43515480/231385669-2f390f36-aa4b-48c4-aca4-380066877bc8.png)
+![image](https://user-images.githubusercontent.com/43515480/231386124-1eb3c1ed-81f1-43dc-8983-36fc0030906f.png)
+
+<H1>Serilog default send data to JSON </h1>
+![image](https://user-images.githubusercontent.com/43515480/231386409-49ec803a-2b41-4cb3-ad53-aa5749165688.png)
+![image](https://user-images.githubusercontent.com/43515480/231386599-d24c2e8f-37a6-4c7b-bb85-d367a2fa09f0.png)
+
+

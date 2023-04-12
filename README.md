@@ -71,3 +71,9 @@ https://www.c-sharpcorner.com/article/how-to-integrate-elasticsearch-in-asp-net-
 ![image](https://user-images.githubusercontent.com/43515480/231379241-5d60ba34-589a-4356-a80f-acabec3fcb5e.png)
 ![image](https://user-images.githubusercontent.com/43515480/231379384-5729f5ef-f084-47e7-b173-c0ce6edf042e.png)
 ![image](https://user-images.githubusercontent.com/43515480/231379462-7abe2f83-22dc-4adc-b267-a1c709bb0d4c.png)
+
+
+
+![image](https://user-images.githubusercontent.com/43515480/231380322-9fbdb63d-18d4-49ef-8335-12128a0a929b.png)
+
+![image](https://user-images.githubusercontent.com/43515480/231380429-96969997-684e-40e0-a8d7-eb71e722f8db.png)
